@@ -1,0 +1,8 @@
+D:\Simplilearn classes\Practice Projects\Section6\TextHandling\TextHandling\bin\Debug\TextHandling.exe.config
+D:\Simplilearn classes\Practice Projects\Section6\TextHandling\TextHandling\bin\Debug\TextHandling.exe
+D:\Simplilearn classes\Practice Projects\Section6\TextHandling\TextHandling\bin\Debug\TextHandling.pdb
+D:\Simplilearn classes\Practice Projects\Section6\TextHandling\TextHandling\obj\Debug\TextHandling.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Practice Projects\Section6\TextHandling\TextHandling\obj\Debug\TextHandling.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\Practice Projects\Section6\TextHandling\TextHandling\obj\Debug\TextHandling.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Practice Projects\Section6\TextHandling\TextHandling\obj\Debug\TextHandling.exe
+D:\Simplilearn classes\Practice Projects\Section6\TextHandling\TextHandling\obj\Debug\TextHandling.pdb
